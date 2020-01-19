@@ -21,6 +21,17 @@
       "js/handling-errors",
       "common/security",
       "common/performance"
+    ],
+    "Community Guides": [
+      "common/guides"
+    ]
+  },
+  "parse-server": {
+    "Parse Server": [
+      "server/main"
+    ],
+    "Community Guides": [
+      "common/guides"
     ]
   }
 }
