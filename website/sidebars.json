@@ -28,7 +28,11 @@
   },
   "parse-server": {
     "Parse Server": [
-      "server/main"
+      "parse-server/main",
+      "parse-server/database",
+      "parse-server/usage",
+      "parse-server/keys",
+      "parse-server/using-parse-sdks"
     ],
     "Community Guides": [
       "common/guides"
