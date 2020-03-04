@@ -39,9 +39,11 @@ const siteConfig = {
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
     {doc: 'parse-server/main', label: 'Server'},
-    {doc: 'js/main', label: 'JS'},
-    {page: 'help', label: 'Help'},
-    {blog: true, label: 'Blog'}
+    {href: 'https://parseplatform.org/parse-server/api', label: 'API'},
+    {doc: 'tutorials/main', label: 'Tutorials'},
+    {blog: true, label: 'blog'},
+    {href: 'https://community.parseplatform.org/', label: 'Forum'},
+    { languages: true }
   ],
 
   // If you have users set above, you add it here:
